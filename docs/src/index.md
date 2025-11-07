@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; margin-left: 32px;">
-    <a href="./"><img src="assets/images/tree-sitter-small.png" width="200" height="200" alt="Tree-sitter logo" /></a>
+<div gaya=">
+"  ./"./"><img src="assets/images/tree-sitter-small.png" lebar="200" tinggi="200" alt="Logo pohon-sitter" /></a>
 </div>
 
 # Introduction
@@ -16,29 +16,29 @@ file and efficiently update the syntax tree as the source file is edited. Tree-s
 
 There are bindings that allow Tree-sitter to be used from the following languages:
 
-### Official
+### Resmi
 
 - [C#](https://github.com/tree-sitter/csharp-tree-sitter)
-- [Go](https://github.com/tree-sitter/go-tree-sitter)
+- [Pergi](https://github.com/tree-sitter/go-tree-sitter)
 - [Haskell](https://github.com/tree-sitter/haskell-tree-sitter)
 - [Java (JDK 22+)](https://github.com/tree-sitter/java-tree-sitter)
 - [JavaScript (Node.js)](https://github.com/tree-sitter/node-tree-sitter)
 - [JavaScript (Wasm)](https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_web)
 - [Kotlin](https://github.com/tree-sitter/kotlin-tree-sitter)
 - [Python](https://github.com/tree-sitter/py-tree-sitter)
-- [Rust](https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_rust)
+- [Karat](https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_rust)
 - [Swift](https://github.com/tree-sitter/swift-tree-sitter)
 - [Zig](https://github.com/tree-sitter/zig-tree-sitter)
 
-### Third-party
+### Pihak ketiga
 
-- [C# (.NET)](https://github.com/zabbius/dotnet-tree-sitter)
+- [C # (. Net)](https://github.com/zabbius/dotnet-tree-sitter)
 - [C++](https://github.com/nsumner/cpp-tree-sitter)
-- [Crystal](https://github.com/crystal-lang-tools/crystal-tree-sitter)
+- [Kristal](https://github.com/crystal-lang-tools/crystal-tree-sitter)
 - [D](https://github.com/aminya/d-tree-sitter)
 - [Delphi](https://github.com/modersohn/delphi-tree-sitter)
-- [ELisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/Parsing-Program-Source.html)
-- [Go](https://github.com/alexaandru/go-tree-sitter-bare)
+- [ELISP](https://www.gnu.org/software/emacs/manual/html_node/elisp/Parsing-Program-Source.html)
+- [Pergi](https://github.com/alexaandru/go-tree-sitter-bare)
 - [Guile](https://github.com/Z572/guile-ts)
 - [Janet](https://github.com/sogaiu/janet-tree-sitter)
 - [Java (JDK 8+)](https://github.com/bonede/tree-sitter-ng)
@@ -50,13 +50,13 @@ There are bindings that allow Tree-sitter to be used from the following language
 - [Odin](https://github.com/laytan/odin-tree-sitter)
 - [Perl](https://metacpan.org/pod/Text::Treesitter)
 - [Pharo](https://github.com/Evref-BL/Pharo-Tree-Sitter)
-- [PHP](https://github.com/soulseekah/ext-treesitter)
+- [Php](https://github.com/soulseekah/ext-treesitter)
 - [R](https://github.com/DavisVaughan/r-tree-sitter)
 - [Ruby](https://github.com/Faveod/ruby-tree-sitter)
 
-_Keep in mind that some of the bindings may be incomplete or out of date._
+_Perlu diingat bahwa beberapa ikatan mungkin tidak lengkap atau ketinggalan zaman._
 
-## Parsers
+## Parers
 
 The following parsers can be found in the upstream organization:
 
